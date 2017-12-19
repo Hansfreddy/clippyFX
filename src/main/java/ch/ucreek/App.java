@@ -19,7 +19,7 @@ public class App extends Application {
     }
 
     public void start(Stage primaryStage) {
-        Image IMAGE = new Image(this.getClass().getResource("map_clippy.png").toString());
+//        Image IMAGE = new Image(this.getClass().getResource("map_clippy.png").toString());
 
         final ImageView imageView = new ImageView();
         Clippy clippy = new Clippy(imageView);

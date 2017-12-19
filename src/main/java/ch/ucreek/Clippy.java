@@ -10,7 +10,7 @@ import javafx.scene.image.ImageView;
  */
 public class Clippy {
 
-    private final String SPRITE_PATH = "map_clippy.png";
+    private final String SPRITE_PATH = "/map_clippy.png";
     private Image sprite;
     private ImageView imageView;
 
