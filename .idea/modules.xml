@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clippyFX.iml" filepath="$PROJECT_DIR$/.idea/modules/clippyFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clippyFX_main.iml" filepath="$PROJECT_DIR$/.idea/modules/clippyFX_main.iml" group="clippyFX" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clippyFX_test.iml" filepath="$PROJECT_DIR$/.idea/modules/clippyFX_test.iml" group="clippyFX" />
+    </modules>
+  </component>
+</project>
